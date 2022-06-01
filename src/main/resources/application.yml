@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://chatterbox-admin:chatterbox-aplus-2022@chatterbox-cluster.iqpwr.mongodb.net/ChatterboxDB?retryWrites=true&w=majority
